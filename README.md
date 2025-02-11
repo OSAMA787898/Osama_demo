@@ -1,2 +1,2 @@
 # Osama_demo
-This is a git &amp; github demo
+This is a git &amp; github demo.
